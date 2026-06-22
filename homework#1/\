@@ -1,4 +1,3 @@
--- explain query plan
 -- with 
 --     all_athletes as (
 --         select name, athletes.code as a_c, teams.code as t_c, athletes.country_code, athletes.nationality_code
