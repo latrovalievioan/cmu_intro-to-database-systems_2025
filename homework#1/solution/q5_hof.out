@@ -1,0 +1,16 @@
+┌───────────────────────────────┬───────────────────────────────┬────────────────────────┐
+│        hof_player_name        │    earliest_teammate_name     │ earliest_teammate_year │
+│            varchar            │            varchar            │         int16          │
+├───────────────────────────────┼───────────────────────────────┼────────────────────────┤
+│ Addie (Adrian) Joss           │ Bill (William Henry) Bernhard │                   1902 │
+│ Adrian (Adrian) Beltre        │ Alex (Jose Alexander) Cora    │                   1998 │
+│ Al (Albert Goodwill) Spalding │ Cal (Calvin Alexander) McVey  │                   1871 │
+│ Al (Albert William) Kaline    │ Al (Albert Julius) Aber       │                   1953 │
+│ Al (Alfonso Ramon) Lopez      │ Arnold (Arnold John) Statz    │                   1928 │
+│ Al (Aloysius Harry) Simmons   │ Amos (Amos Aaron) Strunk      │                   1924 │
+│ Alan (Alan Stuart) Trammell   │ Aurelio (Aurelio) Rodriguez   │                   1977 │
+│ Amos (Amos Wilson) Rusie      │ Andy (John Andrew) Sommers    │                   1889 │
+│ Andre (Andre Nolan) Dawson    │ Andre (Andre) Thornton        │                   1976 │
+│ Arky (Joseph Floyd) Vaughan   │ Adam (Adam Anthony) Comorosky │                   1932 │
+└───────────────────────────────┴───────────────────────────────┴────────────────────────┘
+  10 rows                                                                      3 columns

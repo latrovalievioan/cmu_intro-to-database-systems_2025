@@ -1,0 +1,16 @@
+┌──────────────────────────────────┬───────────────────┐
+│               name               │ max_hr_appearance │
+│             varchar              │       int16       │
+├──────────────────────────────────┼───────────────────┤
+│ Bobby (Robert Leigh) Higginson   │                30 │
+│ Harry (Harry Walter) Anderson    │                23 │
+│ Dick (Richard Edward) Gernert    │                21 │
+│ Mark (Mark Thomas) DeRosa        │                21 │
+│ Matt (Matthew James) Adams       │                20 │
+│ Mickey (James Barton) Vernon     │                20 │
+│ Chris (Chris J.) Heisey          │                18 │
+│ Danny (Daniel Webster) Litwhiler │                18 │
+│ Jeff (Jeffrey Paul) Manto        │                17 │
+│ Doug (Douglas Metunwa) Glanville │                14 │
+└──────────────────────────────────┴───────────────────┘
+  10 rows                                    2 columns

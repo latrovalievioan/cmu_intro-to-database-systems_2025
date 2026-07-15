@@ -1,0 +1,16 @@
+┌─────────────────┬─────────┬────────────────┐
+│    nameGiven    │ teamID  │ distinct_years │
+│     varchar     │ varchar │     int64      │
+├─────────────────┼─────────┼────────────────┤
+│ Ichiro          │ SEA     │             10 │
+│ Yadier Benjamin │ SLN     │              9 │
+│ Alex Jonathan   │ KCA     │              8 │
+│ Andruw Rudolf   │ ATL     │              8 │
+│ Nolan James     │ COL     │              8 │
+│ Torii Kedar     │ MIN     │              7 │
+│ Eric Cesar      │ OAK     │              6 │
+│ James Patrick   │ SLN     │              6 │
+│ Derek Sanderson │ NYA     │              5 │
+│ Salvador Johan  │ KCA     │              5 │
+└─────────────────┴─────────┴────────────────┘
+  10 rows                          3 columns

@@ -30,7 +30,7 @@ with player_teams_appearances as
             and a.yearID > 1999
         group by teamID
     )
-select nameGiven, teamID, count(distinct yearID) c
+select nameGiven, teamID, count(distinct yearID) distinct_years
 from gold_glove_players g
 where g.G_batting > (
     select batting_avg
@@ -38,6 +38,6 @@ where g.G_batting > (
     where t.teamID = g.teamID
 )
 group by nameGiven, teamID
-order by c desc, nameGiven asc
+order by distinct_years desc, nameGiven asc
 limit 10
 ;

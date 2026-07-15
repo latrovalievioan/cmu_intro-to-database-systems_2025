@@ -1,0 +1,11 @@
+┌────────────┐
+│  division  │
+│  varchar   │
+├────────────┤
+│ AL Central │
+│ AL East    │
+│ AL West    │
+│ NL Central │
+│ NL East    │
+│ NL West    │
+└────────────┘

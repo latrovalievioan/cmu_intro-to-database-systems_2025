@@ -1,0 +1,12 @@
+┌─────────────────┬─────────────────────┬────────────────┐
+│     league      │      team_name      │ distinct_years │
+│     varchar     │       varchar       │     int64      │
+├─────────────────┼─────────────────────┼────────────────┤
+│ National League │ Atlanta Braves      │              3 │
+│ American League │ Chicago White Sox   │              3 │
+│ American League │ Baltimore Orioles   │              2 │
+│ American League │ Boston Red Sox      │              2 │
+│ American League │ Cleveland Indians   │              2 │
+│ American League │ New York Yankees    │              2 │
+│ National League │ St. Louis Cardinals │              2 │
+└─────────────────┴─────────────────────┴────────────────┘
